@@ -1,4 +1,4 @@
 rottenpotatoes_hw2
 ==================
 
-Repository for rotten potatoes homeowkr
+Repository for rotten potatoes homework
